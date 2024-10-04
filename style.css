@@ -1,0 +1,15 @@
+#container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row{
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.col{
+    margin: 10px;
+    padding: 10px;
+}
